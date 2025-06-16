@@ -4,9 +4,13 @@ This repository contains an optimization model for minimizing supply chain costs
 # 1. Business Problem
 A company manages a multi-supplier, multi-warehouse supply chain and wants to minimize total supply chain costs while ensuring:
 ✔ Demand fulfillment (all customer orders met)
+
 ✔ Supplier capacity constraints (orders ≤ production limits)
+
 ✔ Quality control (defect rates below threshold)
+
 ✔ Lead time compliance (delivery within acceptable time)
+
 
 # Key Challenges
 High procurement and shipping costs
