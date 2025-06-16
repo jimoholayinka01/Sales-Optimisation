@@ -7,6 +7,7 @@ A company manages a multi-supplier, multi-warehouse supply chain and wants to mi
 ✔ Supplier capacity constraints (orders ≤ production limits)
 ✔ Quality control (defect rates below threshold)
 ✔ Lead time compliance (delivery within acceptable time)
+
 # Key Challenges
 High procurement and shipping costs
 Unpredictable supplier delays
